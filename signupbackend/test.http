@@ -1,0 +1,9 @@
+POST http://localhost:4001/app/signup
+Content-Type: application/json
+
+{
+"Transport":"10.1", 
+"Shopping":"20.1",
+"Dining":"30.1"
+
+}
