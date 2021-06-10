@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ceciliawoon/Demo_Uli/static/css/main.9dcac33b.chunk.css",
-    "main.js": "/ceciliawoon/Demo_Uli/static/js/main.a71651fa.chunk.js",
-    "main.js.map": "/ceciliawoon/Demo_Uli/static/js/main.a71651fa.chunk.js.map",
-    "runtime-main.js": "/ceciliawoon/Demo_Uli/static/js/runtime-main.9af3babb.js",
-    "runtime-main.js.map": "/ceciliawoon/Demo_Uli/static/js/runtime-main.9af3babb.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/ceciliawoon/Demo_Uli/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.14948574.chunk.js": "/ceciliawoon/Demo_Uli/static/js/2.14948574.chunk.js",
-    "static/js/2.14948574.chunk.js.map": "/ceciliawoon/Demo_Uli/static/js/2.14948574.chunk.js.map",
-    "index.html": "/ceciliawoon/Demo_Uli/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/ceciliawoon/Demo_Uli/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.9dcac33b.chunk.css.map": "/ceciliawoon/Demo_Uli/static/css/main.9dcac33b.chunk.css.map",
-    "static/js/2.14948574.chunk.js.LICENSE.txt": "/ceciliawoon/Demo_Uli/static/js/2.14948574.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/ceciliawoon/Demo_Uli/static/media/bg1.d0cca30b.jpg"
+    "main.css": "/Demo_Uli/static/css/main.e3516d08.chunk.css",
+    "main.js": "/Demo_Uli/static/js/main.1bb76c9c.chunk.js",
+    "main.js.map": "/Demo_Uli/static/js/main.1bb76c9c.chunk.js.map",
+    "runtime-main.js": "/Demo_Uli/static/js/runtime-main.99cb8de6.js",
+    "runtime-main.js.map": "/Demo_Uli/static/js/runtime-main.99cb8de6.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Demo_Uli/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.14948574.chunk.js": "/Demo_Uli/static/js/2.14948574.chunk.js",
+    "static/js/2.14948574.chunk.js.map": "/Demo_Uli/static/js/2.14948574.chunk.js.map",
+    "index.html": "/Demo_Uli/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Demo_Uli/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.e3516d08.chunk.css.map": "/Demo_Uli/static/css/main.e3516d08.chunk.css.map",
+    "static/js/2.14948574.chunk.js.LICENSE.txt": "/Demo_Uli/static/js/2.14948574.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Demo_Uli/static/media/bg1.d0cca30b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9af3babb.js",
+    "static/js/runtime-main.99cb8de6.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.14948574.chunk.js",
-    "static/css/main.9dcac33b.chunk.css",
-    "static/js/main.a71651fa.chunk.js"
+    "static/css/main.e3516d08.chunk.css",
+    "static/js/main.1bb76c9c.chunk.js"
   ]
 }
