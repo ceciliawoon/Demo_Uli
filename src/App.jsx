@@ -69,7 +69,7 @@ class App extends Component {
                         <form onSubmit={this.onSubmit}>
                         
                         <h1>NUS Money App</h1>
-                        <h3> New Student Expense</h3>
+                        <h3> Student Expense</h3>
 
                             <input type ='number'
                             placeholder='Transport' 
